@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="<img width="3780" height="1890" alt="Inserir um título (1)" src="https://github.com/user-attachments/assets/4f51b8a1-4351-4c40-b198-0aee33e928ca" />
+  <img src= "https://github.com/user-attachments/assets/4f51b8a1-4351-4c40-b198-0aee33e928ca" />
 " >
 </p>
 
